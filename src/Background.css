@@ -1,0 +1,11 @@
+.bg-shok{
+    position: absolute;
+    /* top: -33em; */
+    filter: brightness(50%);
+
+}
+
+.bg-shlok .row{
+ font-size: 30px;
+ color: #FAC213;
+}
