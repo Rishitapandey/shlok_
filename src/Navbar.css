@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@500&family=Courgette&family=DM+Sans:ital@1&family=Raleway&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fcf8ce;
+    font-family: 'Catamaran', sans-serif;
+font-family: 'Courgette', cursive;
+font-family: 'DM Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+.logo{
+    /* border: 2px solid black; */
+    border-radius: 60%;
+}
+.navbar{
+    background-color: #FFCD30;
+    /* border */
+    padding: 4px;
+    
+}

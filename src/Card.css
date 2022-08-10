@@ -1,0 +1,36 @@
+.card{
+    border-top: 2px solid #F90716;
+}
+
+.card .krishan_icon{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.see_more {
+    flex: 1 1 auto;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+   /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 20px #eee;
+    border-radius: 5px;
+    border: #F90716;
+
+   }
+  
+  /* Demo Stuff End -> */
+  
+  /* <- Magic Stuff Start */
+  
+  .see_more:hover {
+    background-position: right center; /* change the direction of the change here */
+  }
+  
+  .see_more {
+    background-image: linear-gradient(to right, #f8c82a 0%, #f74413 51%, #fdc91c 100%);
+  }

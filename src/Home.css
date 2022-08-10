@@ -1,0 +1,26 @@
+/* .search_form{
+    
+} */
+
+.nav-ink {
+  color: black;
+}
+
+.front-tab {
+  width: 70%;
+  /* z-index: -1; */
+  /* position: absolute;
+  top: 10em;
+  left: 10%; */
+}
+
+form {
+  top: 10em;
+  left: 10em;
+}
+.search-box{
+  position: absolute;
+  left: 527px;
+  top: 423px;
+}  
+
